@@ -1,0 +1,3 @@
+D:/__DATA/Documents/UTEC/ADS2020-1/ListOfConquest-10420/list-of-conquests-10420-Massimoic/cmake-build-debug/CMakeFiles/list_of_conquests_10420_Massimoic.dir
+D:/__DATA/Documents/UTEC/ADS2020-1/ListOfConquest-10420/list-of-conquests-10420-Massimoic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/__DATA/Documents/UTEC/ADS2020-1/ListOfConquest-10420/list-of-conquests-10420-Massimoic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
